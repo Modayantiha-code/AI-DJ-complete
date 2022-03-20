@@ -1,0 +1,48 @@
+        .heading {
+            font-size: 30px;
+            width: 100%;
+            margin: 0px;
+            font-weight: bold;
+            background-color: rgb(0, 0, 0);
+            color: orchid;
+        }
+        
+        .note {
+            font-size: 15px;
+            color: orchid;
+        }
+        
+        body {
+            background-size: cover;
+        }
+        
+        .speed_div {
+            float: left;
+        }
+        
+        .div_img {
+            width: 200px;
+            border-radius: 100px;
+        }
+        
+        .h3s {
+            color: orchid;
+            font-size: 24px;
+            margin: 15px;
+        }
+        
+        .volume_div {
+            float: right;
+        }
+        
+        #play {
+            width: 100px;
+            font-size: 20px;
+            background-color: aqua;
+            color: black;
+        }
+        
+        canvas {
+            border: 5px solid aqua;
+            margin-top: 100px;
+        }
